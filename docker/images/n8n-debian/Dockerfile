@@ -1,4 +1,4 @@
-FROM node:14.15
+FROM node:14.21.3
 
 ARG N8N_VERSION
 
